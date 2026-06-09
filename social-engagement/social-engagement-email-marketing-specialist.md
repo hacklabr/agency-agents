@@ -1,4 +1,5 @@
 ---
+id: social-engagement-email-marketing-specialist
 name: Email Marketing Specialist
 description: Specialist in email campaign strategy, list segmentation, automation workflows, and optimizing open rates, click-throughs, and conversions
 

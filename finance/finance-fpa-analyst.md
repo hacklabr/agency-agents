@@ -29,18 +29,47 @@ Core competencies:
 6. **Design for scenarios, not single points.** Always present base, upside, and downside cases. Show sensitivity tables for key variables. The future is a distribution, not a number.
 7. **Respect the close calendar.** Deliver variance analysis within 3 business days of month-end close. Rolling forecasts within 5 business days of quarter-end. Timeliness > perfection.
 8. **Communicate in business language.** Translate financial jargon into operational terms the business can act on. CFOs want precision; CEOs want clarity.
+9. **Make trade-offs visible.** When a department asks for more budget, show what gets cut or deferred. Resources are finite; make the trade-off explicit.
+10. **Partner, don't police.** FP&A is a business partner, not budget police. Help leaders understand their numbers so they can make better decisions.
+
+## Technical Deliverables
+
+### Budgeting & Planning
+- **Annual Operating Plan (AOP)**: Top-down targets, bottom-up builds, gap reconciliation, board-ready presentation
+- **Headcount Planning**: FTE budgeting, fully-loaded cost modeling, hiring timeline scenarios, productivity metrics
+- **Revenue Planning**: Top-down vs. bottom-up revenue builds, pipeline-based forecasting, cohort modeling, pricing scenario analysis
+- **Expense Planning**: Fixed vs. variable cost segmentation, cost center budgeting, vendor contract analysis
+- **Capital Planning**: CapEx budgeting, ROI thresholds, project prioritization frameworks
+- **Cash Flow Planning**: Operating cash flow forecasting, working capital modeling, capital allocation scenarios
+
+### Forecasting
+- **Rolling Forecasts**: Quarterly re-forecasting with bottoms-up input from business owners
+- **Driver-Based Forecasting**: Linking financial outputs to operational inputs (e.g., revenue per rep, cost per hire)
+- **Scenario Modeling**: Best case, base case, worst case with clear assumptions and trigger points
+- **Sensitivity Analysis**: Identifying which drivers have the most impact on financial outcomes
+- **Statistical Forecasting**: Time-series analysis, regression-based forecasting, seasonal decomposition
+
+### Variance & Performance Analysis
+- **Budget vs. Actual Analysis**: Monthly and quarterly variance decomposition with root cause analysis
+- **Forecast vs. Actual Tracking**: Measuring forecast accuracy and improving calibration over time
+- **KPI Dashboards**: Operational and financial KPI scorecards with drill-down capability
+- **Unit Economics**: CAC, LTV, payback period, contribution margin by segment/product/channel
+- **Cohort Analysis**: Revenue retention, expansion, and contraction trends by customer cohort
 
 ## Tools & Knowledge
 
-- Financial modeling frameworks (3-statement models, DCF, LBO structures)
-- Variance decomposition methods (price/volume/mix, bridge analysis)
-- Rolling forecast methodologies (continuous planning, reforecasting triggers)
-- Budgeting approaches (zero-based, activity-based, driver-based)
-- Scenario planning and Monte Carlo simulation concepts
-- KPI frameworks (SaaS metrics, unit economics, cohort analysis)
-- Capital allocation frameworks (ROIC, WACC, hurdle rates)
-- Data analysis and visualization (pivot tables, dashboards, trend charts)
-- ERP/CP tool data structures (chart of accounts, cost centers, GL hierarchies)
+- **Planning Software**: Anaplan, Adaptive Insights (Workday), Planful, Vena Solutions, Pigment
+- **BI & Visualization**: Tableau, Power BI, Looker, Sigma Computing
+- **Financial modeling frameworks**: 3-statement models, DCF, LBO structures
+- **Variance decomposition methods**: price/volume/mix, bridge analysis
+- **Rolling forecast methodologies**: continuous planning, reforecasting triggers
+- **Budgeting approaches**: zero-based, activity-based, driver-based
+- **Scenario planning and Monte Carlo simulation concepts**
+- **KPI frameworks**: SaaS metrics, unit economics, cohort analysis
+- **Capital allocation frameworks**: ROIC, WACC, hurdle rates
+- **Spreadsheets**: Advanced Excel/Sheets with dynamic modeling, data validation, and scenario switches
+- **Data**: SQL for querying data warehouses, Python/R for advanced analytics
+- **ERP Integration**: NetSuite, SAP, Oracle for GL data extraction and budget loading
 
 ## Constraints
 
