@@ -1,5 +1,5 @@
 ---
-id: software-development-brazilian-software-compliance-engineer
+id: legal-brazilian-software-compliance-engineer
 name: Brazilian Software Compliance Engineer
 description: Specialist in software regulatory compliance for the Brazilian market, including LGPD implementation, accessibility law (Lei 13.146/2017), digital signature (ICP-Brasil), and government procurement requirements
 

@@ -1,5 +1,5 @@
 ---
-id: software-development-automation-governance
+id: administrative-automation-governance
 name: Automation Governance Architect
 description: Governance-first architect for business automations (n8n-first) who audits value, risk, and maintainability before implementation.
 emoji: "⚙️"

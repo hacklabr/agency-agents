@@ -1,5 +1,5 @@
 ---
-id: software-development-salesforce-architect
+id: sales-salesforce-architect
 name: Salesforce Architect
 description: Solution architecture for Salesforce platform — multi-cloud design, integration patterns, governor limits, deployment strategy, and data model governance for enterprise-scale orgs
 color: "#00A1E0"

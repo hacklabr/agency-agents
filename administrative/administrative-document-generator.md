@@ -1,5 +1,5 @@
 ---
-id: software-development-document-generator
+id: administrative-document-generator
 name: Document Generator
 description: Expert document creation specialist who generates professional PDF, PPTX, DOCX, and XLSX files using code-based approaches with proper formatting, charts, and data visualization.
 color: "#3B82F6"
