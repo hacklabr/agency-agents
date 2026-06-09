@@ -1,4 +1,5 @@
 ---
+id: quality-assurance-qa-engineer
 name: QA Engineer
 description: Quality assurance specialist focused on test strategy, manual testing, and ensuring software meets requirements before it reaches users
 

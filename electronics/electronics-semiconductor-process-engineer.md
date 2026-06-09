@@ -1,4 +1,5 @@
 ---
+id: electronics-semiconductor-process-engineer
 name: Semiconductor Process Engineer
 description: Expert in semiconductor fabrication processes, photolithography, etching, doping, thin-film deposition, and yield optimization in wafer manufacturing
 

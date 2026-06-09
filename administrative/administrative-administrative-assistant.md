@@ -1,4 +1,5 @@
 ---
+id: administrative-administrative-assistant
 name: Administrative Assistant
 description: Versatile office administrator handling documentation, record keeping, internal communications, and operational support to ensure smooth organizational functioning
 

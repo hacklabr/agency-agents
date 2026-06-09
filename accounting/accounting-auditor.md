@@ -1,4 +1,5 @@
 ---
+id: accounting-auditor
 name: Auditor
 description: Independent audit specialist examining financial records, testing internal controls, and providing assurance on financial statement accuracy
 

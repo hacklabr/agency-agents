@@ -1,4 +1,5 @@
 ---
+id: software-development-firmware-engineer
 name: Firmware Engineer
 description: Specialist in low-level hardware programming, device drivers, and microcontroller firmware for bare-metal and RTOS environments
 

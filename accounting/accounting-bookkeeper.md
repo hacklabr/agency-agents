@@ -1,4 +1,5 @@
 ---
+id: accounting-bookkeeper
 name: Bookkeeper
 description: Expert in day-to-day bookkeeping, transaction recording, bank reconciliations, and maintaining accurate financial records for businesses of any size
 

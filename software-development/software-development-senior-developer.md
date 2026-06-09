@@ -1,4 +1,5 @@
 ---
+id: software-development-senior-developer
 name: Senior Developer
 description: Stack-agnostic senior software engineer delivering production-grade code with mastery of design patterns, testing discipline, and clean architecture across any technology ecosystem
 

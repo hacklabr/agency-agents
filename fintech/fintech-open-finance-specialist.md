@@ -1,4 +1,5 @@
 ---
+id: fintech-open-finance-specialist
 name: Open Finance Specialist
 description: Expert in Brazil's Open Finance ecosystem, data sharing regulation, API standards, consent management, and business model innovation in financial services
 

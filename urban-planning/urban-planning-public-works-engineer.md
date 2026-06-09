@@ -1,4 +1,5 @@
 ---
+id: urban-planning-public-works-engineer
 name: Public Works Engineer
 description: Expert in municipal infrastructure design and maintenance, water supply, sanitation, road networks, and ensuring basic urban services reach all citizens
 

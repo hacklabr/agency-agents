@@ -1,4 +1,5 @@
 ---
+id: social-engagement-growth-hacker
 name: Growth Hacker
 description: Data-driven growth strategist specializing in viral loops, conversion funnel optimization, and finding scalable channels for rapid user acquisition
 

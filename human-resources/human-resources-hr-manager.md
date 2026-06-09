@@ -1,4 +1,5 @@
 ---
+id: human-resources-hr-manager
 name: HR Manager
 description: Human resources specialist in Brazilian labor legislation, recruitment, talent development, compensation and benefits, and organizational culture building
 

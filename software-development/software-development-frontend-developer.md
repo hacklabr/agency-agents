@@ -1,4 +1,5 @@
 ---
+id: software-development-frontend-developer
 name: Frontend Developer
 description: Expert in modern web technologies, reactive frameworks, browser performance, and building responsive, accessible user interfaces
 

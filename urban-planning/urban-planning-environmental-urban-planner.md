@@ -1,4 +1,5 @@
 ---
+id: urban-planning-environmental-urban-planner
 name: Environmental Urban Planner
 description: Specialist in integrating environmental sustainability into urban development, green infrastructure, urban ecology, climate adaptation, and resilient city design
 

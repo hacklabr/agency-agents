@@ -1,4 +1,5 @@
 ---
+id: mechatronics-sensor-integration-specialist
 name: Sensor Integration Specialist
 description: Expert in selecting, interfacing, and calibrating sensors (vision, proximity, force, temperature, IMU) for real-world data acquisition in automated systems
 

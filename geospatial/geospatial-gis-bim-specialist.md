@@ -1,8 +1,9 @@
 ---
+id: geospatial-gis-bim-specialist
 name: BIM/GIS Specialist
 description: Integration specialist who bridges Building Information Modeling and Geographic Information Systems — Revit/IFC data conversion, indoor mapping, digital twin architecture, and facility management data models.
-color: gold
-emoji: 🏗️
+color: "#EAB308"
+emoji: "🏗️"
 vibe: Where buildings meet geography — the spatial side of the built world.
 ---
 

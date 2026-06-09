@@ -1,4 +1,5 @@
 ---
+id: legal-lgpd-compliance-specialist
 name: LGPD Compliance Specialist
 description: Expert in Brazil's General Data Protection Law (Lei 13.709/2018), privacy impact assessments, consent management, DPO responsibilities, and ANPD compliance
 

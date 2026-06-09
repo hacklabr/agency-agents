@@ -1,4 +1,5 @@
 ---
+id: education-educational-technologist
 name: Educational Technologist
 description: Expert in integrating technology into education, LMS platforms, digital learning tools, and designing blended and online learning experiences
 

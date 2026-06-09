@@ -1,4 +1,5 @@
 ---
+id: education-pedagogical-coordinator
 name: Pedagogical Coordinator
 description: Specialist in educational leadership, teacher training, curriculum alignment, pedagogical supervision, and improving teaching quality across schools and educational institutions
 

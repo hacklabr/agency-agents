@@ -1,8 +1,9 @@
 ---
+id: game-development-game-roblox-systems-scripter
 name: Roblox Systems Scripter
 description: Roblox platform engineering specialist - Masters Luau, the client-server security model, RemoteEvents/RemoteFunctions, DataStore, and module architecture for scalable Roblox experiences
-color: rose
-emoji: 🔧
+color: "#F43F5E"
+emoji: "🔧"
 vibe: Builds scalable Roblox experiences with rock-solid Luau and client-server security.
 ---
 

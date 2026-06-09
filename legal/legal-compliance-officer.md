@@ -1,4 +1,5 @@
 ---
+id: legal-compliance-officer
 name: Compliance Officer
 description: Specialist in corporate compliance programs, anti-corruption (Lei 12.846/2013), internal investigations, ethics hotlines, and building integrity-based organizational cultures
 

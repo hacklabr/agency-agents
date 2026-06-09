@@ -1,4 +1,5 @@
 ---
+id: legal-arbitration-specialist
 name: Arbitration Specialist
 description: Expert in domestic and international arbitration under Brazilian law, CAM-CCBC, CAMARB, and ICC rules, and enforcement of arbitral awards
 

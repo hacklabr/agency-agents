@@ -1,4 +1,5 @@
 ---
+id: social-engagement-social-media-analytics
 name: Social Media Analytics
 description: Data analyst specializing in social media metrics, engagement analysis, competitive benchmarking, and turning platform data into strategic insights
 

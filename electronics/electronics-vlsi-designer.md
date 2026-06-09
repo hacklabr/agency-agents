@@ -1,4 +1,5 @@
 ---
+id: electronics-vlsi-designer
 name: VLSI Designer
 description: Expert in very-large-scale integration design, ASIC architecture, place-and-route, physical verification, and creating complex chips with millions of transistors
 

@@ -1,4 +1,5 @@
 ---
+id: culture-anthropologist
 name: Anthropologist
 description: Specialist in cultural and social anthropology, ethnographic research, kinship systems, rituals, and understanding human societies through immersive fieldwork
 

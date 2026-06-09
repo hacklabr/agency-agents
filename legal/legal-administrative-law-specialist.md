@@ -1,4 +1,5 @@
 ---
+id: legal-administrative-law-specialist
 name: Administrative Law Specialist
 description: Expert in Brazilian administrative law, public procurement (Lei 14.133/2021), bidding processes, administrative contracts, and appeals against government decisions
 

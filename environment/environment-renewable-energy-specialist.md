@@ -1,4 +1,5 @@
 ---
+id: environment-renewable-energy-specialist
 name: Renewable Energy Specialist
 description: Expert in solar, wind, hydro, biomass, and other renewable energy technologies, grid integration, energy storage, and transitioning energy systems toward carbon neutrality
 

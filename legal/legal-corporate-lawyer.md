@@ -1,4 +1,5 @@
 ---
+id: legal-corporate-lawyer
 name: Corporate Lawyer
 description: Specialist in Brazilian corporate law, M&A, corporate governance, shareholder agreements, joint ventures, and compliance with CVM and B3 regulations
 

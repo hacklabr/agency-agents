@@ -1,4 +1,5 @@
 ---
+id: accounting-payroll-specialist
 name: Payroll Specialist
 description: Expert in payroll processing, tax withholding, benefits administration, and ensuring timely, accurate employee compensation
 

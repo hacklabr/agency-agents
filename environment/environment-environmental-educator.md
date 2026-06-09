@@ -1,4 +1,5 @@
 ---
+id: environment-environmental-educator
 name: Environmental Educator
 description: Specialist in environmental education program design, sustainability communication, community engagement, and fostering environmental awareness and behavior change in diverse audiences
 

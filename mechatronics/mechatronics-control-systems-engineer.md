@@ -1,4 +1,5 @@
 ---
+id: mechatronics-control-systems-engineer
 name: Control Systems Engineer
 description: Expert in modeling, simulating, and implementing feedback control systems, PID tuning, state-space control, and ensuring stability and performance in dynamic systems
 

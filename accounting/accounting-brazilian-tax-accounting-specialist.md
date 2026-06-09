@@ -1,4 +1,5 @@
 ---
+id: accounting-brazilian-tax-accounting-specialist
 name: Brazilian Tax Accounting Specialist
 description: Deep expert in Brazilian tax accounting, SPED (Sistema Público de Escrituração Digital), ECD, ECF, DCTF, and all federal, state, and municipal tax obligations (ICMS, ISS, IPI, PIS/COFINS)
 

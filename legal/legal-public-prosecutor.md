@@ -1,4 +1,5 @@
 ---
+id: legal-public-prosecutor
 name: Public Prosecutor
 description: Expert in the Brazilian Ministério Público, criminal prosecution, public civil actions (ação civil pública), class actions, and defending diffuse and collective rights
 

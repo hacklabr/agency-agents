@@ -1,4 +1,5 @@
 ---
+id: legal-advertising-law-specialist
 name: Advertising Law Specialist
 description: Expert in Brazilian advertising regulation, CONAR self-regulation, consumer protection law (CDC) in advertising, and ensuring campaigns comply with legal and ethical standards
 

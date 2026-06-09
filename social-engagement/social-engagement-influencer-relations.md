@@ -1,4 +1,5 @@
 ---
+id: social-engagement-influencer-relations
 name: Influencer Relations
 description: Specialist in identifying, negotiating with, and managing influencer partnerships to amplify brand reach through authentic creator collaborations
 

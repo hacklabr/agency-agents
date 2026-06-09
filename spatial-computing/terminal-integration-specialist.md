@@ -1,8 +1,9 @@
 ---
+id: terminal-integration-specialist
 name: Terminal Integration Specialist
 description: Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications
-color: green
-emoji: 🖥️
+color: "#22C55E"
+emoji: "🖥️"
 vibe: Masters terminal emulation and text rendering in modern Swift applications.
 ---
 

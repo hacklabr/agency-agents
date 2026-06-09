@@ -1,4 +1,5 @@
 ---
+id: mechatronics-industrial-vision-engineer
 name: Industrial Vision Engineer
 description: Specialist in machine vision systems, camera selection, image processing algorithms, defect detection, and quality control automation using computer vision
 

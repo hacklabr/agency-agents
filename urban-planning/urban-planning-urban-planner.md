@@ -1,4 +1,5 @@
 ---
+id: urban-planning-urban-planner
 name: Urban Planner
 description: Specialist in comprehensive urban planning, zoning, land use regulation, master plans (PDUs), and designing sustainable, inclusive cities for growing populations
 

@@ -1,4 +1,5 @@
 ---
+id: politics-political-analyst
 name: Political Analyst
 description: Expert in Brazilian political landscape, electoral behavior, party dynamics, coalition building, and forecasting political outcomes at federal, state, and municipal levels
 

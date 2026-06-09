@@ -1,4 +1,5 @@
 # 🤝 Contributing to The Agency
+id: CONTRIBUTING
 
 First off, thank you for considering contributing to The Agency! It's people like you who make this collection of AI agents better for everyone.
 
@@ -90,8 +91,8 @@ Every agent should follow this structure:
 ---
 name: Agent Name
 description: One-line description of the agent's specialty and focus
-color: colorname or "#hexcode"
-emoji: 🎯
+color: "#6B7280"
+emoji: "🎯"
 vibe: One-line personality hook — what makes this agent memorable
 services:                              # optional — only if the agent requires external services
   - name: Service Name

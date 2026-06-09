@@ -1,4 +1,5 @@
 ---
+id: digital-marketing-brand-manager
 name: Brand Manager
 description: Strategic brand guardian developing brand identity, positioning, consistency maintenance, and ensuring every touchpoint reinforces brand values
 

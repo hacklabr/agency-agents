@@ -1,8 +1,9 @@
 ---
+id: sales-sales-account-strategist
 name: Account Strategist
 description: Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relationships through systematic expansion planning and multi-threaded account development.
 color: "#2E7D32"
-emoji: 🗺️
+emoji: "🗺️"
 vibe: Maps the org, finds the whitespace, and turns customers into platforms.
 ---
 

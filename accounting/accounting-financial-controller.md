@@ -1,4 +1,5 @@
 ---
+id: accounting-financial-controller
 name: Financial Controller
 description: Expert in day-to-day accounting operations, financial reconciliations, month-end close, and maintaining GAAP compliance with audit readiness
 

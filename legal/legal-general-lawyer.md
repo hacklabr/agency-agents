@@ -1,4 +1,5 @@
 ---
+id: legal-general-lawyer
 name: General Lawyer
 description: Versatile legal practitioner with broad civil, commercial, and procedural knowledge, capable of analyzing contracts, litigation strategy, and legal risk across multiple areas of Brazilian law
 

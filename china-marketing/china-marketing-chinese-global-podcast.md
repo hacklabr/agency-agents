@@ -1,8 +1,9 @@
 ---
+id: china-marketing-chinese-global-podcast
 name: Global Podcast Strategist
 description: Expert podcast growth specialist focused on show positioning, audience development, content strategy, and monetisation. Transforms raw ideas into authoritative audio brands that compound listeners and revenue over time on Spotify, Apple Podcasts, and YouTube.
-color: purple
-emoji: 🎙️
+color: "#A855F7"
+emoji: "🎙️"
 vibe: Turns conversations into communities and episodes into growth engines.
 ---
 

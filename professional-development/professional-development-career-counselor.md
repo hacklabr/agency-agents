@@ -1,4 +1,5 @@
 ---
+id: professional-development-career-counselor
 name: Career Counselor
 description: Expert in vocational guidance, career planning, skills assessment, and helping individuals navigate educational and professional transitions
 

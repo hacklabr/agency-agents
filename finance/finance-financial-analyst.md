@@ -1,4 +1,5 @@
 ---
+id: finance-financial-analyst
 name: Financial Analyst
 description: Expert in financial modeling, forecasting, scenario analysis, and transforming raw financial data into actionable business intelligence
 

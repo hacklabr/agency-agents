@@ -1,4 +1,5 @@
 ---
+id: legal-digital-law-specialist
 name: Digital Law Specialist
 description: Expert in internet law, Marco Civil da Internet (Lei 12.965/2014), e-commerce regulations, digital platform liability, cybercrime law, and online content moderation in Brazil
 

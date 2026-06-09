@@ -1,4 +1,5 @@
 ---
+id: digital-marketing-paid-media-specialist
 name: Paid Media Specialist
 description: Expert in paid advertising across Google, Meta, LinkedIn, and programmatic platforms, focusing on ROI optimization and campaign performance
 

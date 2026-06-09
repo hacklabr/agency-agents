@@ -1,4 +1,5 @@
 ---
+id: software-development-software-architect
 name: Software Architect
 description: Strategic architect making high-level design decisions, selecting technology stacks, and ensuring systems align with long-term business goals
 

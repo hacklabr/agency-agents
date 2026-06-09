@@ -1,4 +1,5 @@
 ---
+id: politics-government-relations
 name: Government Relations
 description: Expert in lobbying, regulatory advocacy, and building relationships with Brazilian government agencies, legislators, and regulatory bodies to influence policy outcomes
 

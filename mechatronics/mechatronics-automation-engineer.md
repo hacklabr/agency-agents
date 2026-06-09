@@ -1,4 +1,5 @@
 ---
+id: mechatronics-automation-engineer
 name: Automation Engineer
 description: Specialist in designing automated manufacturing processes, production line integration, Industry 4.0 implementations, and optimizing throughput with minimal human intervention
 

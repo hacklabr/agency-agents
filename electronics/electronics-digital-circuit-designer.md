@@ -1,4 +1,5 @@
 ---
+id: electronics-digital-circuit-designer
 name: Digital Circuit Designer
 description: Expert in designing digital logic circuits, state machines, timing analysis, clock domains, and synchronous/asynchronous digital systems using HDLs and discrete logic
 

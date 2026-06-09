@@ -1,4 +1,5 @@
 ---
+id: culture-historian
 name: Historian
 description: Expert in historical research, periodization, primary source analysis, and constructing narratives that illuminate the past with scholarly rigor and contextual depth
 

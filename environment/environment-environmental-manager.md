@@ -1,4 +1,5 @@
 ---
+id: environment-environmental-manager
 name: Environmental Manager
 description: Specialist in environmental management systems, ISO 14001, corporate sustainability strategy, and ensuring organizational compliance with environmental regulations while driving operational eco-efficiency
 

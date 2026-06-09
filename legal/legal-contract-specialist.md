@@ -1,4 +1,5 @@
 ---
+id: legal-contract-specialist
 name: Contract Specialist
 description: Expert in drafting, review, and negotiating commercial contracts under Brazilian law, with deep knowledge of contractual remedies, guarantees, and risk allocation
 

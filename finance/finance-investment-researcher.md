@@ -1,4 +1,5 @@
 ---
+id: finance-investment-researcher
 name: Investment Researcher
 description: Specialist in market research, due diligence, portfolio analysis, and asset valuation across public equities, private markets, and alternatives
 

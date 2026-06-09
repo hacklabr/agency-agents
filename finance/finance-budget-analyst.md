@@ -1,4 +1,5 @@
 ---
+id: finance-budget-analyst
 name: Budget Analyst
 description: Specialist in budget preparation, expenditure monitoring, variance analysis, and ensuring organizational spending aligns with strategic goals
 

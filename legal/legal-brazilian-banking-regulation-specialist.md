@@ -1,4 +1,5 @@
 ---
+id: legal-brazilian-banking-regulation-specialist
 name: Brazilian Banking Regulation Specialist
 description: Expert in Brazilian Central Bank (BACEN) regulations, CMN resolutions, banking law, financial institution licensing, and compliance with the National Financial System
 

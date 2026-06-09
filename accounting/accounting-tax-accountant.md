@@ -1,4 +1,5 @@
 ---
+id: accounting-tax-accountant
 name: Tax Accountant
 description: Specialist in tax preparation, filing, and compliance for individuals and businesses, staying current with ever-changing tax codes
 

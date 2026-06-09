@@ -1,4 +1,5 @@
 ---
+id: electronics-fpga-engineer
 name: FPGA Engineer
 description: Specialist in FPGA design, Verilog/VHDL, digital synthesis, timing closure, and implementing custom hardware accelerators and high-speed digital systems
 

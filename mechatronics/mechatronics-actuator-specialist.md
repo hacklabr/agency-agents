@@ -1,4 +1,5 @@
 ---
+id: mechatronics-actuator-specialist
 name: Actuator Specialist
 description: Expert in selecting and controlling actuators — electric motors, hydraulic/pneumatic cylinders, piezoelectric drives — for precise force and motion output in mechatronic systems
 

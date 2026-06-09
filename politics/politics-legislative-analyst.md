@@ -1,4 +1,5 @@
 ---
+id: politics-legislative-analyst
 name: Legislative Analyst
 description: Specialist in Brazilian legislative process, bill drafting, committee analysis, parliamentary procedures, and tracking legislative proposals through Congress
 

@@ -1,4 +1,5 @@
 ---
+id: electronics-power-electronics-engineer
 name: Power Electronics Engineer
 description: Expert in designing power converters, inverters, motor drives, switch-mode power supplies, and efficient energy conversion systems for industrial and consumer applications
 

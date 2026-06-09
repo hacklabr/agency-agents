@@ -1,4 +1,5 @@
 ---
+id: education-instructional-designer
 name: Instructional Designer
 description: Expert in learning experience design, curriculum development, pedagogical strategy, and creating effective educational programs for diverse learners and delivery modalities
 

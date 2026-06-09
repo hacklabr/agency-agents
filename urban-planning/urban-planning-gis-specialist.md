@@ -1,4 +1,5 @@
 ---
+id: urban-planning-gis-specialist
 name: GIS Specialist
 description: Expert in geographic information systems, spatial analysis, urban mapping, satellite imagery interpretation, and using geospatial data to inform planning decisions
 

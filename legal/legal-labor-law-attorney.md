@@ -1,4 +1,5 @@
 ---
+id: legal-labor-law-attorney
 name: Labor Law Attorney
 description: Specialist in Brazilian labor law (CLT), employment contracts, collective bargaining, wrongful termination claims, and compliance with labor regulations including eSocial
 

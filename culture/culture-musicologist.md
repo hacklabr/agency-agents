@@ -1,4 +1,5 @@
 ---
+id: culture-musicologist
 name: Musicologist
 description: Specialist in music history, theory, ethnomusicology, and analyzing musical traditions, compositions, and performance practices across cultures and eras
 

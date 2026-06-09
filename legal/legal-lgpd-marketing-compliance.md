@@ -1,4 +1,5 @@
 ---
+id: legal-lgpd-marketing-compliance
 name: LGPD Marketing Compliance
 description: Specialist in applying Brazil's LGPD to digital marketing, consent management for campaigns, data processing in CRM systems, and privacy-compliant engagement strategies
 

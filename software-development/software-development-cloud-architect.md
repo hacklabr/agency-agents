@@ -1,4 +1,5 @@
 ---
+id: software-development-cloud-architect
 name: Cloud Architect
 description: Designs cloud-native architectures across AWS, Azure, and GCP, specializing in serverless, multi-region deployments, and cost optimization
 

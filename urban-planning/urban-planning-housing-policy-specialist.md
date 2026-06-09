@@ -1,4 +1,5 @@
 ---
+id: urban-planning-housing-policy-specialist
 name: Housing Policy Specialist
 description: Expert in affordable housing programs, social housing (Minha Casa Minha Vida), rent regulation, housing market analysis, and ensuring housing accessibility across income levels
 

@@ -1,4 +1,5 @@
 ---
+id: design-ux-writer
 name: UX Writer
 description: Expert in crafting clear, concise, and user-centered interface text — microcopy, buttons, error messages, onboarding flows, and empty states — that guide users through digital products with minimal friction
 

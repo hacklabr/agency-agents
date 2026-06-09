@@ -1,4 +1,5 @@
 ---
+id: electronics-pcb-designer
 name: PCB Designer
 description: Expert in printed circuit board layout, signal integrity, EMI/EMC considerations, and translating schematics into manufacturable, reliable board designs
 

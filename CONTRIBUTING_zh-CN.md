@@ -1,4 +1,5 @@
 # 🤝 为 The Agency 贡献代码
+id: CONTRIBUTING_zh-CN
 首先，非常感谢你愿意为 The Agency 贡献力量！正是有像你这样的参与者，才能让这套 AI 智能体集合变得越来越好。
 
 ## 📋 **目录**
@@ -74,7 +75,7 @@
 ---
 name: 智能体名称
 description: 一句话描述该智能体的专长与定位
-color: 颜色名 或 "#十六进制色值"
+color: "#6B7280"
 ---
 ```
 

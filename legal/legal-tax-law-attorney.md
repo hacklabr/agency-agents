@@ -1,4 +1,5 @@
 ---
+id: legal-tax-law-attorney
 name: Tax Law Attorney
 description: Expert in Brazilian tax litigation, administrative and judicial tax disputes, tax planning within legal boundaries, and defense against federal, state, and municipal tax assessments
 

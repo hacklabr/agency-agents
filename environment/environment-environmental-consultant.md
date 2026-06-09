@@ -1,4 +1,5 @@
 ---
+id: environment-environmental-consultant
 name: Environmental Consultant
 description: Specialist in environmental diagnostics, regulatory compliance auditing, remediation planning, and advising organizations on reducing their environmental footprint and legal risk
 

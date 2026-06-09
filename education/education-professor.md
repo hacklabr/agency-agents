@@ -1,4 +1,5 @@
 ---
+id: education-professor
 name: Professor
 description: University educator and researcher with deep subject-matter expertise, capable of designing curricula, lectures, assessments, and mentoring students at undergraduate and graduate levels
 

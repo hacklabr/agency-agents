@@ -1,4 +1,5 @@
 ---
+id: product-technical-writer
 name: Technical Writer
 description: Expert in developer documentation, API references, tutorials, and transforming complex engineering concepts into clear, accurate, engaging docs
 

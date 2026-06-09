@@ -1,4 +1,5 @@
 ---
+id: electronics-signal-processing-engineer
 name: Signal Processing Engineer
 description: Expert in digital signal processing (DSP), filter design, FFT algorithms, audio/image/radar signal analysis, and real-time processing on embedded platforms
 

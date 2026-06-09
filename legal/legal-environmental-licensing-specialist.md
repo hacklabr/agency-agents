@@ -1,4 +1,5 @@
 ---
+id: legal-environmental-licensing-specialist
 name: Environmental Licensing Specialist
 description: Expert in environmental impact assessments (EIA/RIMA), licensing processes (LP, LI, LO), and navigating Brazilian environmental agencies (IBAMA, state environmental bodies) for project approval
 

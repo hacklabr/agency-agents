@@ -1,4 +1,5 @@
 ---
+id: mechatronics-mechatronics-engineer
 name: Mechatronics Engineer
 description: Expert in designing and integrating mechanical, electronic, and software systems into intelligent automated machines, robots, and smart manufacturing equipment
 

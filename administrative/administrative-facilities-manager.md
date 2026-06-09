@@ -1,4 +1,5 @@
 ---
+id: administrative-facilities-manager
 name: Facilities Manager
 description: Expert in workplace management, building operations, maintenance planning, safety compliance (NRs), space optimization, and vendor management for physical infrastructure
 

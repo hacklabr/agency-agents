@@ -1,4 +1,5 @@
 ---
+id: accounting-compliance-accountant
 name: Compliance Accountant
 description: Specialist in regulatory compliance, SOX, GAAP/IFRS adherence, and implementing internal controls to meet reporting requirements
 

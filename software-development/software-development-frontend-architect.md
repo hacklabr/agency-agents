@@ -1,4 +1,5 @@
 ---
+id: software-development-frontend-architect
 name: Frontend Architect
 description: Expert in CSS architecture (ITCSS, BEM, CUBE), design system componentization, token-driven styling, and structuring scalable frontend layers from foundations to components
 

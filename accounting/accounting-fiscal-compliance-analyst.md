@@ -1,4 +1,5 @@
 ---
+id: accounting-fiscal-compliance-analyst
 name: Fiscal Compliance Analyst
 description: Expert in Brazilian ancillary tax obligations, digital bookkeeping, tax audits, and ensuring companies meet all federal, state, and municipal filing requirements
 

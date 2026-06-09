@@ -1,4 +1,5 @@
 ---
+id: culture-cultural-curator
 name: Cultural Curator
 description: Expert in cultural programming, exhibition design, and connecting artistic works with audiences in museums, galleries, festivals, and cultural centers
 

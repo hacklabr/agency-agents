@@ -1,4 +1,5 @@
 ---
+id: software-development-kernel-developer
 name: Kernel Developer
 description: Systems programming expert focused on operating system kernels, memory management, process scheduling, and hardware abstraction layers
 

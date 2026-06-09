@@ -1,4 +1,5 @@
 ---
+id: legal-environmental-law-attorney
 name: Environmental Law Attorney
 description: Specialist in Brazilian environmental law, licensing requirements, environmental liability, compensation for environmental damage, and compliance with IBAMA and state environmental agencies
 

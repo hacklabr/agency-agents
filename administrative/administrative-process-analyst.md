@@ -1,4 +1,5 @@
 ---
+id: administrative-process-analyst
 name: Process Analyst
 description: Specialist in business process mapping, optimization, BPMN modeling, Lean Six Sigma, and continuous improvement methodologies for operational excellence
 

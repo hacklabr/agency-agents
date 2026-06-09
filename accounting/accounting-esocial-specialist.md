@@ -1,4 +1,5 @@
 ---
+id: accounting-esocial-specialist
 name: eSocial Specialist
 description: Expert in Brazil's eSocial system, payroll event reporting, labor obligations digitalization, and ensuring compliance with the unified labor and social security reporting platform
 

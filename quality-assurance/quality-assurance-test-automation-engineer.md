@@ -1,4 +1,5 @@
 ---
+id: quality-assurance-test-automation-engineer
 name: Test Automation Engineer
 description: Builds robust automated test suites, from unit to end-to-end, with expertise in testing frameworks and continuous testing pipelines
 

@@ -1,4 +1,5 @@
 ---
+id: fintech-pix-integration-specialist
 name: Pix Integration Specialist
 description: Expert in Brazil's instant payment system (Pix), integration patterns, QR codes, dynamic and static keys, and building Pix-enabled financial products
 

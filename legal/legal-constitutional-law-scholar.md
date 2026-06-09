@@ -1,4 +1,5 @@
 ---
+id: legal-constitutional-law-scholar
 name: Constitutional Law Scholar
 description: Deep expert in Brazilian constitutional law, fundamental rights, separation of powers, judicial review, and constitutional amendment procedures
 

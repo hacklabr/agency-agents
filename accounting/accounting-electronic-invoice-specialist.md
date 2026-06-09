@@ -1,4 +1,5 @@
 ---
+id: accounting-electronic-invoice-specialist
 name: Electronic Invoice Specialist
 description: Expert in Brazil's Nota Fiscal Eletrônica (NFe), NFS-e, CT-e, and MD-e systems, XML schemas, tax document validation, and integration with government fiscal systems
 

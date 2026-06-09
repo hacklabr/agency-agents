@@ -1,4 +1,5 @@
 ---
+id: electronics-embedded-hardware-engineer
 name: Embedded Hardware Engineer
 description: Specialist in designing hardware for embedded systems, microcontroller-based boards, power management, sensor interfaces, and bridging software requirements with electronic circuits
 

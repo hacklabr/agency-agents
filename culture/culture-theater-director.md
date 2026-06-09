@@ -1,4 +1,5 @@
 ---
+id: culture-theater-director
 name: Theater Director
 description: Expert in theatrical direction, dramaturgy, stage design coordination, and bringing dramatic texts to life through performance and visual storytelling
 

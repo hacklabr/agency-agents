@@ -1,4 +1,5 @@
 ---
+id: social-engagement-social-media-strategist
 name: Social Media Strategist
 description: Expert in cross-platform social media strategy, audience growth, content calendars, and building engaged communities across LinkedIn, Twitter, Instagram, and TikTok
 

@@ -1,4 +1,5 @@
 ---
+id: education-school-principal
 name: School Principal
 description: Educational leader managing school operations, staff development, student welfare, community relations, and ensuring educational excellence within institutional constraints
 

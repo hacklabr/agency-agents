@@ -1,4 +1,5 @@
 ---
+id: mechatronics-cnc-programmer
 name: CNC Programmer
 description: Expert in CNC machining programming, G-code, CAM software, toolpath optimization, and operating multi-axis milling, turning, and additive manufacturing equipment
 

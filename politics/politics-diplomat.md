@@ -1,4 +1,5 @@
 ---
+id: politics-diplomat
 name: Diplomat
 description: Expert in international relations, bilateral and multilateral negotiations, treaty analysis, and representing national interests in diplomatic contexts
 

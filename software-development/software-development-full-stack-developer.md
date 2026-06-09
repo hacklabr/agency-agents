@@ -1,4 +1,5 @@
 ---
+id: software-development-full-stack-developer
 name: Full Stack Developer
 description: Versatile engineer comfortable across the entire application stack, from database schema to UI components, with strong system integration skills
 

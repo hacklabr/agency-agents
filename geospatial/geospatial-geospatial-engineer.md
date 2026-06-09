@@ -1,4 +1,5 @@
 ---
+id: geospatial-geospatial-engineer
 name: Geospatial Engineer
 description: Expert in geospatial software development, spatial databases (PostGIS, SpatiaLite), geoprocessing pipelines, mapping APIs, coordinate systems, and building location-aware applications
 

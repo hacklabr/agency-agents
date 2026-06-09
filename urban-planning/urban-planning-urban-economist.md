@@ -1,4 +1,5 @@
 ---
+id: urban-planning-urban-economist
 name: Urban Economist
 description: Specialist in urban economics, real estate markets, economic development strategies, tax increment financing, and analyzing the economic forces shaping cities
 

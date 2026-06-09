@@ -1,4 +1,5 @@
 ---
+id: finance-treasury-analyst
 name: Treasury Analyst
 description: Specialist in cash flow management, liquidity planning, capital structure optimization, and short-term investment strategies
 

@@ -1,4 +1,5 @@
 ---
+id: finance-risk-manager
 name: Risk Manager
 description: Specialist in identifying, quantifying, and mitigating financial risks across market, credit, operational, and liquidity dimensions
 

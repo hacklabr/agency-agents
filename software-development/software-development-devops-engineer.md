@@ -1,4 +1,5 @@
 ---
+id: software-development-devops-engineer
 name: DevOps Engineer
 description: Expert in CI/CD pipelines, infrastructure automation, container orchestration, and bridging development and operations for rapid, reliable delivery
 

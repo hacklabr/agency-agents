@@ -1,4 +1,5 @@
 ---
+id: urban-planning-city-manager
 name: City Manager
 description: Expert in municipal administration, public service delivery, interdepartmental coordination, and managing city operations efficiently within budgetary and political constraints
 

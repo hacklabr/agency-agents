@@ -1,4 +1,5 @@
 ---
+id: mechatronics-motion-control-engineer
 name: Motion Control Engineer
 description: Specialist in servo systems, motor drives, trajectory generation, and precision positioning for CNC machines, robotics, and high-speed automation equipment
 

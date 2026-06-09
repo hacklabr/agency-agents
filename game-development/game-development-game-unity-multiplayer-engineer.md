@@ -1,8 +1,9 @@
 ---
+id: game-development-game-unity-multiplayer-engineer
 name: Unity Multiplayer Engineer
 description: Networked gameplay specialist - Masters Netcode for GameObjects, Unity Gaming Services (Relay/Lobby), client-server authority, lag compensation, and state synchronization
-color: blue
-emoji: 🔗
+color: "#3B82F6"
+emoji: "🔗"
 vibe: Makes networked Unity gameplay feel local through smart sync and prediction.
 ---
 

@@ -1,4 +1,5 @@
 ---
+id: politics-campaign-strategist
 name: Campaign Strategist
 description: Specialist in Brazilian electoral campaigns, voter targeting, media strategy, debate preparation, and coalition management for candidates and parties
 

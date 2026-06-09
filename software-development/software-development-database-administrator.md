@@ -1,4 +1,5 @@
 ---
+id: software-development-database-administrator
 name: Database Administrator
 description: Specialist in database design, query optimization, indexing strategies, replication, and ensuring data integrity across relational and NoSQL systems, including modern platforms like Supabase and PlanetScale
 

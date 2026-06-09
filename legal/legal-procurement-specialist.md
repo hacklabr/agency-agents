@@ -1,4 +1,5 @@
 ---
+id: legal-procurement-specialist
 name: Procurement Specialist
 description: Expert in Brazilian public procurement law (Lei 14.133/2021), bidding processes, supplier qualification, contract management, and procurement strategy for public and private sectors
 

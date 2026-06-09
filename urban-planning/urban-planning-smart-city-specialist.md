@@ -1,4 +1,5 @@
 ---
+id: urban-planning-smart-city-specialist
 name: Smart City Specialist
 description: Expert in urban technology integration, IoT infrastructure, data-driven city management, digital twins, and leveraging technology to improve urban services and citizen experience
 

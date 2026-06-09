@@ -1,4 +1,5 @@
 ---
+id: education-educational-psychologist
 name: Educational Psychologist
 description: Specialist in learning processes, cognitive development, educational assessment, and supporting students with learning difficulties and special educational needs
 

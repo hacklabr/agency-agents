@@ -1,4 +1,5 @@
 ---
+id: mechatronics-robotics-engineer
 name: Robotics Engineer
 description: Specialist in robot design, kinematics, dynamics, path planning, and building autonomous or teleoperated robotic systems for industrial, service, or research applications
 

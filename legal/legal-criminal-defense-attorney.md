@@ -1,4 +1,5 @@
 ---
+id: legal-criminal-defense-attorney
 name: Criminal Defense Attorney
 description: Specialist in Brazilian criminal law and procedure, defending clients in police investigations, criminal trials, appeals, and habeas corpus petitions
 

@@ -1,4 +1,5 @@
 ---
+id: electronics-analog-circuit-designer
 name: Analog Circuit Designer
 description: Specialist in designing amplifiers, filters, oscillators, power supplies, and analog signal conditioning circuits using transistors, op-amps, and passive components
 

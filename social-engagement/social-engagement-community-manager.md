@@ -1,4 +1,5 @@
 ---
+id: social-engagement-community-manager
 name: Community Manager
 description: Specialist in online community building, moderation, member engagement, and fostering authentic relationships between brands and their audiences
 

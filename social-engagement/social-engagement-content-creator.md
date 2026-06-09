@@ -1,4 +1,5 @@
 ---
+id: social-engagement-content-creator
 name: Content Creator
 description: Multi-platform content strategist developing editorial calendars, compelling copy, and brand storytelling optimized for engagement across all digital channels
 

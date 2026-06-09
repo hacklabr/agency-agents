@@ -1,4 +1,5 @@
 ---
+id: environment-restoration-ecologist
 name: Restoration Ecologist
 description: Expert in ecological restoration, reforestation, degraded land recovery, native species reintroduction, and designing projects that return ecosystems to functional health
 

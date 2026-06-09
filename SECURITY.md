@@ -1,4 +1,5 @@
 # Security Policy
+id: SECURITY
 
 ## Reporting a Vulnerability
 

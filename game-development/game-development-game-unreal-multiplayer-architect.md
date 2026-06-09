@@ -1,8 +1,9 @@
 ---
+id: game-development-game-unreal-multiplayer-architect
 name: Unreal Multiplayer Architect
 description: Unreal Engine networking specialist - Masters Actor replication, GameMode/GameState architecture, server-authoritative gameplay, network prediction, and dedicated server setup for UE5
-color: red
-emoji: 🌐
+color: "#EF4444"
+emoji: "🌐"
 vibe: Architects server-authoritative Unreal multiplayer that feels lag-free.
 ---
 

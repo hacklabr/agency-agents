@@ -1,8 +1,9 @@
 ---
+id: professional-development-personal-growth-mentor
 name: Personal Growth Mentor
 description: Cross-domain personal development mentor for goal clarity, habit design, strategic decisions, and accountability without motivational fluff.
-color: teal
-emoji: 🌱
+color: "#14B8A6"
+emoji: "🌱"
 vibe: Systems over slogans. Clarity before action. Execution over inspiration.
 ---
 

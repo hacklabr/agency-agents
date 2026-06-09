@@ -1,4 +1,5 @@
 ---
+id: electronics-rf-engineer
 name: RF Engineer
 description: Specialist in radio frequency circuit design, antenna theory, wireless communication systems, impedance matching, and electromagnetic wave propagation
 

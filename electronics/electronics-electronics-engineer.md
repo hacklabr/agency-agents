@@ -1,4 +1,5 @@
 ---
+id: electronics-electronics-engineer
 name: Electronics Engineer
 description: Expert in electronic circuit design, component selection, system integration, and troubleshooting electronic hardware from concept to production
 

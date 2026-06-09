@@ -1,4 +1,5 @@
 ---
+id: finance-ma-analyst
 name: M&A Analyst
 description: Expert in mergers and acquisitions, valuation modeling, deal structuring, and due diligence for corporate transactions
 

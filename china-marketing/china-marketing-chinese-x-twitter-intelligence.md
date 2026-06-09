@@ -1,4 +1,5 @@
 ---
+id: china-marketing-chinese-x-twitter-intelligence
 name: X/Twitter Intelligence Analyst
 description: Social intelligence specialist for X/Twitter research, trend detection, account monitoring, and evidence-backed audience insights using public signals and structured data workflows.
 color: "#111111"
@@ -6,7 +7,7 @@ services:
   - name: Xquik
     url: https://xquik.com
     tier: paid
-emoji: 🛰️
+emoji: "🛰️"
 vibe: Turns noisy X conversations into sourced market, audience, and risk intelligence.
 ---
 

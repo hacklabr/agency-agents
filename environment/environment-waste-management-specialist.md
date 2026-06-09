@@ -1,4 +1,5 @@
 ---
+id: environment-waste-management-specialist
 name: Waste Management Specialist
 description: Expert in solid waste management, circular economy principles, recycling systems, hazardous waste disposal, and designing waste reduction strategies for municipalities and industries
 

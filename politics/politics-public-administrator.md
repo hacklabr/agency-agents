@@ -1,4 +1,5 @@
 ---
+id: politics-public-administrator
 name: Public Administrator
 description: Expert in Brazilian public administration, public policy implementation, bureaucratic reform, and optimizing government service delivery at federal, state, and municipal levels
 

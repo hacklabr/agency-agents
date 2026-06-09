@@ -1,4 +1,5 @@
 ---
+id: culture-literary-critic
 name: Literary Critic
 description: Specialist in literary analysis, critical theory, and evaluating works of fiction, poetry, and non-fiction within their historical, cultural, and aesthetic contexts
 

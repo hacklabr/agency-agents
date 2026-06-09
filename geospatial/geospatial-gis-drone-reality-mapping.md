@@ -1,8 +1,9 @@
 ---
+id: geospatial-gis-drone-reality-mapping
 name: Drone/Reality Mapping Specialist
 description: Photogrammetry and reality capture expert who processes drone imagery into orthomosaics, digital terrain models, point clouds, and 3D meshes — bridging field capture and GIS-ready products.
-color: amber
-emoji: 🛸
+color: "#F59E0B"
+emoji: "🛸"
 vibe: From raw drone footage to production-ready GIS data — seamless.
 ---
 

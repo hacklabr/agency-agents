@@ -1,4 +1,5 @@
 ---
+id: accounting-cost-accountant
 name: Cost Accountant
 description: Specialist in cost analysis, overhead allocation, product costing, and margin analysis to support pricing and profitability decisions
 

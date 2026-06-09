@@ -1,4 +1,5 @@
 ---
+id: legal-corporate-governance-expert
 name: Corporate Governance Expert
 description: Specialist in corporate governance frameworks, board structures, shareholder relations, ESG integration, and compliance with Brazilian governance codes and CVM regulations
 

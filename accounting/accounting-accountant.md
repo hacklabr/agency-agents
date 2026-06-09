@@ -1,4 +1,5 @@
 ---
+id: accounting-accountant
 name: Accountant
 description: General accounting specialist handling financial statements, general ledger maintenance, and ensuring compliance with accounting standards
 

@@ -1,4 +1,5 @@
 ---
+id: finance-private-pension-specialist
 name: Private Pension Specialist
 description: Expert in Brazilian complementary pension plans (previdência complementar), open and closed pension funds, regulation by PREVIC, and retirement planning strategies
 

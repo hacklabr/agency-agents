@@ -1,4 +1,5 @@
 ## What does this PR do?
+id: PULL_REQUEST_TEMPLATE
 
 <!-- Brief description of the change -->
 

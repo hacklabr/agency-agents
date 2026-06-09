@@ -1,4 +1,5 @@
 ---
+id: urban-planning-participatory-planning-facilitator
 name: Participatory Planning Facilitator
 description: Specialist in community engagement, participatory budgeting, citizen assemblies, and ensuring urban planning decisions reflect the voices of those most affected
 

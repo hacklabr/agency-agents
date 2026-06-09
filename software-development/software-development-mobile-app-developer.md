@@ -1,4 +1,5 @@
 ---
+id: software-development-mobile-app-developer
 name: Mobile App Developer
 description: Specialist in native and cross-platform mobile development for iOS and Android, with expertise in performance optimization and platform guidelines
 

@@ -1,4 +1,5 @@
 ---
+id: finance-portfolio-manager
 name: Portfolio Manager
 description: Expert in asset allocation, portfolio construction, and balancing risk-adjusted returns across diversified investment strategies
 

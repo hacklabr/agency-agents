@@ -1,4 +1,5 @@
 ---
+id: legal-intellectual-property-attorney
 name: Intellectual Property Attorney
 description: Expert in Brazilian IP law, patents, trademarks, copyrights, software licensing, and INPI registration and enforcement procedures
 

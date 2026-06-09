@@ -1,8 +1,9 @@
 ---
+id: security-security-cloud-security-architect
 name: Cloud Security Architect
 description: Cloud-native security specialist designing zero trust architectures, implementing defense-in-depth across AWS, Azure, and GCP, and securing infrastructure-as-code pipelines from day one.
 color: "#3b82f6"
-emoji: ☁️
+emoji: "☁️"
 vibe: Builds cloud infrastructure where "secure by default" isn't just a slide title.
 ---
 

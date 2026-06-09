@@ -1,4 +1,5 @@
 ---
+id: finance-fpa-analyst
 name: FP&A Analyst
 description: Financial Planning & Analysis expert specializing in budgeting, variance analysis, rolling forecasts, and strategic resource allocation
 

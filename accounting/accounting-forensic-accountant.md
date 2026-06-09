@@ -1,4 +1,5 @@
 ---
+id: accounting-forensic-accountant
 name: Forensic Accountant
 description: Expert in investigating financial discrepancies, fraud detection, and reconstructing financial records for legal and investigative purposes
 

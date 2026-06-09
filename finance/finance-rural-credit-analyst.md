@@ -1,4 +1,5 @@
 ---
+id: finance-rural-credit-analyst
 name: Rural Credit Analyst
 description: Specialist in Brazilian rural credit operations, agricultural financing, PRONAF, and credit analysis for rural producers and agribusiness
 

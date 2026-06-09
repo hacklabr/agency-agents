@@ -1,4 +1,5 @@
 ---
+id: mechatronics-plc-programmer
 name: PLC Programmer
 description: Expert in programming programmable logic controllers (PLCs), ladder logic, SCADA systems, and industrial control networks for manufacturing and process automation
 

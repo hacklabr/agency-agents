@@ -1,4 +1,5 @@
 ---
+id: education-special-needs-educator
 name: Special Needs Educator
 description: Specialist in inclusive education, individualized education plans (IEPs), assistive technology, and adapting teaching methods for students with disabilities and diverse learning needs
 

@@ -1,4 +1,5 @@
 ---
+id: environment-ecologist
 name: Ecologist
 description: Expert in ecosystem dynamics, biodiversity assessment, population ecology, and applying ecological principles to conservation, restoration, and land-use planning decisions
 

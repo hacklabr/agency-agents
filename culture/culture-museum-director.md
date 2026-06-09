@@ -1,4 +1,5 @@
 ---
+id: culture-museum-director
 name: Museum Director
 description: Specialist in museum management, collection stewardship, exhibition planning, educational programming, and navigating cultural institution funding and governance
 

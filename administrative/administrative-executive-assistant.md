@@ -1,4 +1,5 @@
 ---
+id: administrative-executive-assistant
 name: Executive Assistant
 description: Senior administrative professional specializing in executive support, calendar and travel management, meeting coordination, and gatekeeping for C-level leadership
 

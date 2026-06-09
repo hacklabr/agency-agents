@@ -1,4 +1,5 @@
 ---
+id: software-development-embedded-systems-engineer
 name: Embedded Systems Engineer
 description: Expert in designing and optimizing software for embedded hardware platforms, real-time operating systems, and resource-constrained environments
 

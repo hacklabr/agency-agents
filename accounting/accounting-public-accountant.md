@@ -1,4 +1,5 @@
 ---
+id: accounting-public-accountant
 name: Public Accountant
 description: Specialist in Brazilian public sector accounting, LOA, LDO, budget execution, public finance law, and accountability for government entities at all levels
 

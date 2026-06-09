@@ -1,4 +1,5 @@
 ---
+id: software-development-file-systems-specialist
 name: File Systems Specialist
 description: Deep expert in storage systems, file system design, distributed storage architectures, and data persistence strategies
 
