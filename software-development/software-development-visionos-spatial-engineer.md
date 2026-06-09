@@ -1,5 +1,5 @@
 ---
-id: visionos-spatial-engineer
+id: software-development-visionos-spatial-engineer
 name: visionOS Spatial Engineer
 description: Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Glass design implementation
 color: "#6366F1"

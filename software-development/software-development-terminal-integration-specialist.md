@@ -1,5 +1,5 @@
 ---
-id: terminal-integration-specialist
+id: software-development-terminal-integration-specialist
 name: Terminal Integration Specialist
 description: Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications
 color: "#22C55E"
