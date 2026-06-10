@@ -1,6 +1,6 @@
 # The Agency: AI Specialist Catalog
 
-> **367 specialist personas across 26 domains** — production-ready AI agents with unique personalities, structured workflows, and measurable deliverables.
+> **366 specialist personas across 27 domains** — production-ready AI agents with unique personalities, structured workflows, and measurable deliverables.
 
 This catalog powers the [Mesa plugin](https://github.com/hacklabr/opencode-mesa) for OpenCode, providing structured multi-agent discussions. Each persona is a Markdown file with YAML frontmatter and a detailed system prompt.
 
@@ -15,7 +15,7 @@ This catalog powers the [Mesa plugin](https://github.com/hacklabr/opencode-mesa)
 | 📋 | accounting | 16 | Tax, audit, payroll, SPED, fiscal compliance, forensic |
 | 📎 | administrative | 25 | Operations, project management, IT service, legal ops |
 | 🇨🇳 | china-marketing | 29 | Douyin, WeChat, Baidu, Xiaohongshu, cross-border e-commerce |
-| 🌍 | culture | 10 | Museums, musicology, theater, heritage, literary criticism |
+| 🌍 | culture | 14 | Libraries, museums, archives, digital curation, information science |
 | 🎧 | customer-service | 6 | Support, success management, hospitality, retail |
 | 📷 | design | 9 | UI, UX, visual storytelling, inclusive design, image prompts |
 | 🏗️ | digital-marketing | 14 | SEO, paid media, AEO, brand management, programmatic |
@@ -129,16 +129,20 @@ This catalog powers the [Mesa plugin](https://github.com/hacklabr/opencode-mesa)
 | 🔗 | [Feishu Integration Developer](china-marketing/china-marketing-feishu-integration-developer.md) | `china-marketing-feishu-integration-developer` | Full-stack integration expert specializing in the Feishu (Lark) Open Platform — proficient in Feishu bots, mini progr... |
 | 💬 | [WeChat Mini Program Developer](china-marketing/china-marketing-wechat-mini-program.md) | `china-marketing-wechat-mini-program` | Expert WeChat Mini Program developer specializing in 小程序 development with WXML/WXSS/WXS, WeChat API integration, paym... |
 
-### culture (10)
+### culture (14)
 
 | | Name | ID | Description |
 |---|------|----|-------------|
 | 🌍 | [Anthropologist](culture/culture-anthropologist.md) | `culture-anthropologist` | Specialist in cultural and social anthropology, ethnographic research, kinship systems, rituals, and understanding hu... |
 | ⛏️ | [Archaeologist](culture/culture-archaeologist.md) | `culture-archaeologist` | Expert in archaeological excavation, artifact analysis, site preservation, and interpreting material culture to recon... |
+| 📁 | [Archivist](culture/culture-archivist.md) | `culture-archivist` | Expert in archival science, document management, records lifecycle, and archival description — preserving institution... |
 | 🎭 | [Cultural Curator](culture/culture-cultural-curator.md) | `culture-cultural-curator` | Expert in cultural programming, exhibition design, and connecting artistic works with audiences in museums, galleries... |
+| 💾 | [Digital Curator](culture/culture-digital-curator.md) | `culture-digital-curator` | Expert in digital preservation, repository management, metadata schemas, and open access — ensuring long-term availab... |
 | 🏺 | [Heritage Preservationist](culture/culture-heritage-preservationist.md) | `culture-heritage-preservationist` | Expert in cultural heritage conservation, historical site preservation, UNESCO World Heritage protocols, and balancin... |
 | 📚 | [Historian](culture/culture-historian.md) | `culture-historian` | Expert in historical research, periodization, primary source analysis, and constructing narratives that illuminate th... |
+| 🔍 | [Information Specialist](culture/culture-information-specialist.md) | `culture-information-specialist` | Expert in information search, source evaluation, competitive intelligence, and knowledge management — transforming ra... |
 | 🌐 | [Language Translator](culture/culture-language-translator.md) | `culture-language-translator` | Real-time Spanish ↔ English translation specialist with cultural context, regional dialect awareness, travel phrase g... |
+| 📚 | [Librarian](culture/culture-librarian.md) | `culture-librarian` | Expert in collection management, cataloging, classification, reference services, and information access — bridging kn... |
 | 📖 | [Literary Critic](culture/culture-literary-critic.md) | `culture-literary-critic` | Specialist in literary analysis, critical theory, and evaluating works of fiction, poetry, and non-fiction within the... |
 | 🏛️ | [Museum Director](culture/culture-museum-director.md) | `culture-museum-director` | Specialist in museum management, collection stewardship, exhibition planning, educational programming, and navigating... |
 | 🎵 | [Musicologist](culture/culture-musicologist.md) | `culture-musicologist` | Specialist in music history, theory, ethnomusicology, and analyzing musical traditions, compositions, and performance... |
